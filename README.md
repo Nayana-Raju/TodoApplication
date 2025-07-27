@@ -1,4 +1,4 @@
-**Prerequisites for running Todo Application:**
+**✅ Prerequisites for running Todo Application:**
 
 Node.js (v14 or later)
 npm
@@ -99,4 +99,40 @@ If `requirements.txt` is not available, manually install:  pip install selenium 
   - Upgrade `webdriver-manager` with: `pip install -U webdriver-manager`
 
   -----------------------------------------------------------------------------------------------------------------------
+**✅ Prerequisites for Todo API Automation (Python Requests)**
+
+This repository contains a standalone API automation test script written in Python using the `requests` library. It interacts with a local Todo backend server to perform authentication and all CRUD operations on todos.
+
+
+📦 File Name on GitHub : todo_API_automation-master.zip
+
+#Download and Extract the ZIP file
+
+Then open the folder in Visual Studio or any Python IDE.
+
+
+**✅ Prerequisites**
+
+Make sure you have the following installed:
+
+- [Python 3.7+]
+- [Visual Studio] or any IDE
+
+**🔧 Setup**
+
+1. Open the project folder in your IDE.
+2. Ensure the Todo React backend server is running at: http://localhost:5000
+
+**📦 Install Required Packages**
+
+Open a terminal in the folder containing the script and run:  pip install requests
+
+**How to Run**
+
+Simply execute the script from your terminal: python todo_API_automation.py
+
+**🔐 Credentials Used**
+
+- **Username**: testuser
+- **Password**: testpass
 
