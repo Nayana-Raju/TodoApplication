@@ -56,7 +56,7 @@ This repository contains a Selenium-based Python automation script for testing t
 
 🗂️ Todo Application
 
-📦 File Name on GitHub: todo_API_automation-master.zip
+📦 File Name on GitHub: todo_selenium_automation-master.zip
 
 #Download and Extract the ZIP file
 
@@ -87,7 +87,7 @@ If `requirements.txt` is not available, manually install:  pip install selenium 
 
 1. Make sure the Todo React backend and frontend is running at: http://localhost:5000/api/health and http://localhost:3000
 
-2. Run the test script using Python: "python todo_automation_test.py"
+2. Run the test script using Python: "python todo_selenium_automation.py"
 
 
 > ✅ The browser will open and execute all tests automatically, including:
