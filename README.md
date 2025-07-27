@@ -71,7 +71,7 @@ Ensure the following tools and libraries are installed:
 - [ChromeDriver] (Automatically managed by `webdriver-manager`)
 - [Visual Studio] or any Python IDE
 
----
+
 
 **📦 Install Required Packages**
 
