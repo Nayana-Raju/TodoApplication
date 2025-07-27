@@ -1,15 +1,19 @@
 **✅ Prerequisites for running Todo Application:**
 
 Node.js (v14 or later)
+
 npm
+
 Any IDE or code editor (e.g., Visual Studio Code)
 
-⚙️ Installation & Running the Application
+⚙️ Installation & Running the Application :
 
 1️⃣ Open the Project
+
 Open the TodoApplication folder in your preferred IDE.
 
 2️⃣ Start the Backend Server
+
 In Terminal 1, run the following commands:
 
 cd backend
@@ -35,17 +39,23 @@ npm start
 http://localhost:3000
 
 🔐 Application Login
+
 Use the following credentials to log in:
+
 URL : http://localhost:3000
 
 Username: testuser
+
 Password: testpass
 
 🧰 Tech Stack
+
 Frontend: React, HTML5, CSS3, JavaScript
+
 Backend: Node.js, Express.js
 
 📎 API Endpoint to check backend
+
 Health Check: GET http://localhost:5000/api/health
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -95,6 +105,7 @@ If `requirements.txt` is not available, manually install:  pip install selenium 
 > - Create, update, delete
 
 **🛠️ Troubleshooting**
+
   - Check if Chrome is installed correctly.
   - Upgrade `webdriver-manager` with: `pip install -U webdriver-manager`
 
