@@ -23,7 +23,7 @@ npm install     # Only needed on first run
 npm start
 
 ✅ The backend server will start at:
-http://localhost:5000/api/health
+http://localhost:5000
 
 3️⃣ Start the Frontend Application
 
@@ -95,7 +95,7 @@ If `requirements.txt` is not available, manually install:  pip install selenium 
 
 **🚀 How to Run the Automation Script**
 
-1. Make sure the Todo React backend and frontend is running at: http://localhost:5000/api/health and http://localhost:3000
+1. Make sure the Todo React backend and frontend is running at: http://localhost:5000 and http://localhost:3000
 
 2. Run the test script using Python: "python todo_selenium_automation.py"
 
